@@ -20,7 +20,7 @@ O objetivo do desenvolvimento deste projeto foi aprofundar ainda mais os conheci
 # Como Utilizar?
 
 ~~~
-- Cloner o repositório:
+- Clonar o repositório:
 $ git clone https://github.com/murilobohlke/pay-flow
 
 - Entrar no diretório:
